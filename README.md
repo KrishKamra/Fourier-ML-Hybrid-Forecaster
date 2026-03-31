@@ -40,7 +40,7 @@ git clone [https://github.com/yourusername/fourier-forecast-ai.git](https://gith
 cd fourier-forecast-ai
 pip install -r requirements.txt
 
-
+```
 ### 2. Launch the Backend (API)
 The API handles the Fourier-ML inference pipeline.
 ```bash
